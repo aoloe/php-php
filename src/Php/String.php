@@ -1,8 +1,14 @@
 <?php
 //
 // dummy class for the autoloader
-namespace Aoloe\Php {
-    class String {
+namespace Aoloe\Php;
+
+class String {
+    public static function startsWith($haystack, $needle) {
+        Aoloe\Php\startsWith($haystack, $needle);
+    }
+    public static function endsWith($haystack, $needle) {
+        Aoloe\Php\endsWith($haystack, $needle);
     }
 }
 
