@@ -14,7 +14,7 @@
     "description": "Implement commmands that are missing from PHP or from older versions of PHP",
     "keywords": [
         "php",
-        "compaatibility"
+        "compatibility"
     ],
     "homepage": "https://github.com/aoloe/php-php",
     "license": "MIT",

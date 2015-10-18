@@ -1,8 +1,8 @@
 <?php
 //
-// dummy class for the autoloader
 namespace Aoloe\Php;
 
+// dummy class for the autoloader
 class String {
     public static function startsWith($haystack, $needle) {
         Aoloe\Php\startsWith($haystack, $needle);
